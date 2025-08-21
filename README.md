@@ -10,12 +10,12 @@
 ```
 danylo-volchenko@github
 -----------------------------------------------------------------------------------------
-C software engineer
+C,C++ software engineer
 
 I have a strong interest in Networking, Linux Kernel and Embedded development.
 Working on residential gateways software, including WiFi-7(MLO) drivers.
 
-Main languages: C, ARM64 Assembly, Bash, C++
+Main languages: C, C++, ARM64 Assembly, Bash
 ```
 <hr>
 
@@ -35,9 +35,9 @@ Main languages: C, ARM64 Assembly, Bash, C++
 
 <p>
 <a href="#"><img alt="C" src = "https://img.shields.io/badge/C-black?style=for-the-badge&logoColor=white"></a>
+<a href="#"><img alt="C++" src = "https://img.shields.io/badge/C%2B%2B-black.svg?style=for-the-badge&logoColor=white"></a>
 <a href="#"><img alt="ARM Assembly" src = "https://img.shields.io/badge/ASM-black?style=for-the-badge&logoColor=white"></a>
 <a href="#"><img alt="Bash" src = "https://img.shields.io/badge/bash-black?style=for-the-badge&logoColor=white"></a>
-<a href="#"><img alt="C++" src = "https://img.shields.io/badge/C%2B%2B-black.svg?style=for-the-badge&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and Libraries
@@ -56,7 +56,7 @@ Main languages: C, ARM64 Assembly, Bash, C++
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about embedded C development, feel free to <a href="mailto:danylo.volchenko@gmail.com">contact me through email</a>.
+If you have any questions about embedded C or C++ development, feel free to <a href="mailto:danylo.volchenko@gmail.com">contact me through email</a>.
 
 You can hire me on <a href="https://www.linkedin.com/in/danylovolchenko/">LinkedIn</a>.
 
