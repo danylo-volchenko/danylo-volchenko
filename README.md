@@ -32,42 +32,7 @@ Main languages: C, C++, ARM64 Assembly, Bash
 
   <a href="https://github.com/danylo-volchenko?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-
-### 💻 Programming Languages
-
-<p>
-<a href="#"><img alt="C" src = "https://img.shields.io/badge/C-black?style=for-the-badge&logoColor=white"></a>
-<a href="#"><img alt="C++" src = "https://img.shields.io/badge/C%2B%2B-black.svg?style=for-the-badge&logoColor=white"></a>
-<a href="#"><img alt="ARM Assembly" src = "https://img.shields.io/badge/ASM-black?style=for-the-badge&logoColor=white"></a>
-<a href="#"><img alt="Bash" src = "https://img.shields.io/badge/bash-black?style=for-the-badge&logoColor=white"></a>
-</p>
-
-### 🧰 Frameworks and Libraries
-
-<p>
-    <a href="#"><img alt="Ambiorix" src="https://img.shields.io/badge/Ambiorix-black?style=for-the-badge&logo=Ambiorix&logoColor=white"></a>
-    <a href="#"><img alt="PIVA" src="https://img.shields.io/badge/PIVA-black?style=for-the-badge&logo=PIVA&logoColor=white"></a>
-    <a href="#"><img alt="Qt" src="https://img.shields.io/badge/Qt-black?style=for-the-badge&logo=qt&logoColor=white"></a>
-    <a href="#"><img alt="QML" src="https://img.shields.io/badge/QML-black?style=for-the-badge&logo=qt&logoColor=white"></a>
-    <a href="#"><img alt="STL" src="https://img.shields.io/badge/STL-black?style=for-the-badge&logo=cplusplus&logoColor=white"></a>    
-</p>
-   
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
-
-## Let's Work on Your Project Together!
-
-If you have any questions about embedded C or C++ development, feel free to <a href="mailto:danylo.volchenko@gmail.com">contact me through email</a>.
-
-You can hire me on <a href="https://www.linkedin.com/in/danylovolchenko/">LinkedIn</a>.
-
-  </td>
-  </tr>
-</table>
-
 ------
-Last Edited On: 26/06/2025
 
 
 
